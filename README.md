@@ -1,6 +1,10 @@
 <h3 align="center">Hi 👋, my name is Ngo Duc Canh</h3>
 <h4 align="center">I'm a web developer from Hanoi</h4>
 
+<!-- - 🔭 I’m currently working on Beedu -->
+
+- 🔭 I’m currently working on [HIT](https://github.com/hit-haui)
+- 🌱 I’m currently learning **VueJS and NodeJS**
 - 📫 How to reach me **ngoduccanh19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
